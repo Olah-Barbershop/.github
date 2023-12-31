@@ -4,7 +4,7 @@ The only barbershop you'll ever need!
 (This is nothing more than a school project, so don't take **anything** seriously)
 
 ## Checklist for all organization related things:
-- [ ] Website
+- [X] Website (WIP, but available)
 - [X] Merch (Spring)
 - [X] Linktree site
 - [X] Socials (Instagram & Threads)
