@@ -9,4 +9,3 @@ The only barbershop you'll ever need!
 - [X] Linktree site
 - [X] Socials (Instagram, Threads & DEV.TO)
 - [X] API
-- [ ] Android App (**very** WIP, to be ignored for now)
